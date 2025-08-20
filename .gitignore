@@ -1,0 +1,11 @@
+*.class
+*.exe
+*.log
+*.zip
+*.out
+node_modules/
+__pycache__/
+.DS_Store
+Thumbs.db
+.vscode/
+practice.java
